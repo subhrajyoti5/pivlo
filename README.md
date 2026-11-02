@@ -3,7 +3,7 @@
 Deep storage analysis · intelligent categorization · safe cleanup · zero cloud dependencies</p>
 
 <p align="center">
-  <a href="https://subhr.in"><img src="https://img.shields.io/badge/by-Subhrajyoti-0e75b6?style=flat-square" alt="Author" /></a>
+  <a href="https://subhr.in"><img src="https://img.shields.io/badge/Built%20by-subhr.in-0e75b6?style=flat-square&logo=globe" alt="Built by subhr.in" /></a>
   <a href="https://github.com/subhrajyoti5/pivlo"><img src="https://img.shields.io/badge/Source-GitHub-000000?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" /></a>
 </p>
